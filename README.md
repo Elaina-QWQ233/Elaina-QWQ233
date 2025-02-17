@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elaina-QWQ233
+- 👋 Hi, I’m Elaina-QWQ233
 - 👀 I’m interested in Minecraft Bedrock
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on none
